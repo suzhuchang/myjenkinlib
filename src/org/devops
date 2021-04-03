@@ -1,4 +1,4 @@
-pacakge org.devops
+package org.devops
 
 def PrintMes(info){
     println(info)
